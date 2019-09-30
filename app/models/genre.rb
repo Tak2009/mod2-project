@@ -2,8 +2,9 @@ class Genre < ApplicationRecord
 
     has_many :images
 
-#   test
-# test testbtest
-
+#   testTesttest
+# aditional test test test
+# testetste
+# testetst
 
 end
