@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image_id: 1
+  question: MyText
+  difficulty: 1
+  genre_id: 1
+
+two:
+  image_id: 1
+  question: MyText
+  difficulty: 1
+  genre_id: 1
